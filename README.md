@@ -15,7 +15,11 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506587ee.gif" width="100">
 </div>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=silvirestiani0-debug&show_icons=true&theme=radical&hide_border=true" />
+  <a href="LINK_DEMO_ATAU_APK">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-Click_Here-brightgreen?style=for-the-badge" />
+  </a>
+  <a href="LINK_REPOSITORY_UTAMA">
+    <img src="https://img.shields.io/badge/⭐_Star_This_Repo-Support_Me-orange?style=for-the-badge" />
+  </a>
 </div>
