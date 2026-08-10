@@ -6,3 +6,9 @@
  🌸 Welcome to My Repository! 🌸
  <br>
 ✨ Keep coding, stay creative! ✨
+
+ 🛠️ Built With
+<p>
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
