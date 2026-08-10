@@ -1,4 +1,4 @@
-## Hi SILVI
+## Sampurasun wargi wargi
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=✨%20Welcome%20To%20My%20Project!%20✨&fontSize=24&fontColor=ffffff&animation=fadeIn" width="100%"/>
@@ -12,11 +12,6 @@
   <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=silvirestiani0-debug&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
-</div>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer" width="100%"/>
   <p>Made with 💖 and a lot of coffee ☕</p>
